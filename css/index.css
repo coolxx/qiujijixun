@@ -138,23 +138,22 @@ header p{
 	background: url(../images/main2.jpg) no-repeat center;
 	background-size: 18.0rem 12.675rem;
 }
-.main2 .m2_p{
+.main2 h2{
 	height: 1.35rem;
-	font-size: 1.05rem;
+	line-height: 1.35rem;
 	text-align: center;
-	line-height: 1.35rem;
-	color: #f4fc7b;
-	font-weight: bold;
-	margin-top: 0.15rem
-}
-.sbg{
-	background: #1c4279;
-	padding: 0 0.125rem;
-	margin: 0 0.125rem;
 	font-size: 1.05rem;
-	height: 1.35rem;
-	line-height: 1.35rem;
+	color: #f4fc7b
+}
+.main2 h2 strong{
+	font-size: 1.35rem;
+}
+.main2 h2 span{
+	background: #1c4279;
 	display: inline-block;
+	margin-left: 0.125rem;
+	padding: 0 0.125rem;
+	color: #f4fc7b;
 }
 .m2_p1{
 	font-size: 0.7rem;
