@@ -215,6 +215,7 @@ header p{
 .main3 h2{
 	font-size: 1.05rem;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	color: #1c4279;
 	margin-top: 1.325rem;
 	text-align: center;
@@ -304,6 +305,7 @@ header p{
 	font-size: 1.05rem;
 	text-align: center;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	margin-top: 2.75rem;
 	color: #fff;
 }
@@ -417,6 +419,7 @@ header p{
 .main5 h2{
 	font-size: 1.05rem;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	text-align: center;
 	color: #fff;
 }
@@ -485,6 +488,7 @@ header p{
 .main6 h2{
 	font-size: 1.05rem;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	text-align: center;
 	margin-top: 1.75rem;
 	color: #1c4279;
@@ -577,6 +581,7 @@ header p{
 	font-size: 1.05rem;
 	text-align: center;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	color: #1c4279;
 }
 .main8 h2 span{
@@ -610,8 +615,8 @@ header p{
 	top: 19.325rem;
 }
 .m8_p6{
-	left: 394px;
-	top: 773px;
+	left: 9.85rem;
+	top: 19.325rem;
 }
 .main9{
 	width: 18.0rem;
@@ -622,6 +627,7 @@ header p{
 .main9 h2{
 	font-size: 1.05rem;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	text-align: center;
 	color: #1c4279
 }
@@ -703,6 +709,7 @@ header p{
 .main10 h2{
 	font-size: 1.05rem;
 	line-height: 1.05rem;
+	height: 1.05rem;
 	text-align: center;
 	color: #1c4279
 }
