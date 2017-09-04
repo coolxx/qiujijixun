@@ -133,7 +133,7 @@ header p{
 	overflow: hidden;
 	background: url(../images/main2.jpg) no-repeat center;
 }
-.main2 h2{
+.main2 .m2_p{
 	font-size: 42px;
 	text-align: center;
 	line-height: 56px;
@@ -144,8 +144,6 @@ header p{
 	background: #1c4279;
 	padding: 0 5px;
 	margin: 0 5px;
-	line-height: 56px;
-	display: inline-block;
 }
 .m2_p1{
 	font-size: 28px;

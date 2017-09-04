@@ -138,7 +138,7 @@ header p{
 	background: url(../images/main2.jpg) no-repeat center;
 	background-size: 18.0rem 12.675rem;
 }
-.main2 h2{
+.main2 .m2_p{
 	font-size: 1.05rem;
 	text-align: center;
 	line-height: 1.4rem;
@@ -149,7 +149,6 @@ header p{
 	background: #1c4279;
 	padding: 0 0.125rem;
 	margin: 0 0.125rem;
-	line-height: 1.4rem;
 }
 .m2_p1{
 	font-size: 0.7rem;
