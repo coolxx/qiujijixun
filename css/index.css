@@ -154,6 +154,8 @@ header p{
 	margin-left: 0.125rem;
 	padding: 0 0.125rem;
 	color: #f4fc7b;
+	height: 1.35rem;
+	line-height: 1.4rem;
 }
 .m2_p1{
 	font-size: 0.7rem;
