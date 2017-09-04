@@ -212,6 +212,10 @@ header p{
 	overflow: hidden;
 	background: #eef8fc;
 }
+.m6_p2 span{
+	color: #982e0d;
+	font-weight: bold;
+}
 .main3 h2{
 	font-size: 1.05rem;
 	line-height: 1.15rem;
